@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57dca666026554bf5a432910251f30fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - judgeArea: {fileID: 8679220078896677278, guid: 143ad77a0047e4c9e8e76192815caa3d,
+      type: 3}
+  - scoremanager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
